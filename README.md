@@ -26,9 +26,10 @@
 
 
 环境要求：  
-- Python 3.12  
-- Node.js 21  
+- Python 3.12
+- Node.js 21
 - mysql
+- npm
 ---
 
 ## 前端  
@@ -56,7 +57,15 @@
 ### 部署步骤  
 1. 初始化数据库（运行时间较长，仅需执行一次）：  
    ```bash  
-   cd python/sql  
+   cd python
+   ```
+   ```bash
+   pip install -r requirements.txt
+   ```
+   ```bash
+   cd sql
+   ```
+   ```bash
    python3 adddb.py  
    ```  
 
