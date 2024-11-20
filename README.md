@@ -7,11 +7,16 @@
 自选股
 
 ![自选股](a.png)
-因子编辑
+因子编辑和计算
 
-![因子编辑](picture/因子.png)
+![因子编辑](picture/因子.jpg)
 
-![因子编辑](picture/因子2.png)
+![因子编辑](picture/因子2.jpg)
+
+
+策略编辑和回测
+
+![因子编辑](picture/策略.jpg)
 
 环境要求：  
 - Python 3.12  
