@@ -9,8 +9,9 @@
 ![自选股](a.png)
 因子编辑
 
-![因子编辑](b.png)
+![因子编辑](picture/因子.png)
 
+![因子编辑](picture/因子2.png)
 
 环境要求：  
 - Python 3.12  
