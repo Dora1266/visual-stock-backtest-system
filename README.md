@@ -6,17 +6,24 @@
 
 自选股
 
-![自选股](a.png)
+![自选股](picture/自选股.jpg)
+
 因子编辑和计算
 
 ![因子编辑](picture/因子.jpg)
-
+计算参数自定义，图中是计算20日均线
 ![因子编辑](picture/因子2.jpg)
 
 
 策略编辑和回测
 
-![因子编辑](picture/策略.jpg)
+![编辑策略](picture/编辑策略.jpg) 
+![回测](picture/计算策略.jpg)
+
+回测历史和可视化
+![回测历史](picture/回测历史.jpg) 
+![回测可视化](picture/回测可视化.jpg)
+
 
 环境要求：  
 - Python 3.12  
